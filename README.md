@@ -19,8 +19,8 @@
 
 Клонування проекту з репозиторію (або скопіюйте файли вручну):
 ```bash
-git clone https://github.com/your-repository/price-watcher.git
-cd price-watcher
+git clone https://github.com/salionovich/price_watcher.git
+cd price_watcher
 ```
 
 ---
